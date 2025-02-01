@@ -1,7 +1,7 @@
 const { createProxyMiddleware } = require("http-proxy-middleware");
 
 module.exports = (req, res) => {
-  let target = "https://evoworld.io/";//your website url
+  let target = "https://html5.gamedistribution.com/fe27fd48297444f3bf71cb1eb7d905e7/";//your website url
   //   if (
   //     req.url.startsWith("/api") ||
   //     req.url.startsWith("/auth") ||
